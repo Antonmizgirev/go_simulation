@@ -1,0 +1,6 @@
+Foo north=Bar west=Baz south=Qu-ux east=M
+Bar south=Foo west=Bee
+Bee north=Bar south=Foo west=P
+P east=M
+M south=Foo north=P
+Baz east=Foo south=P north=M
